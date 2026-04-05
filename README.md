@@ -42,11 +42,24 @@
 ### 🧰 Tools & Technologies
 
 * GitHub
-* Postman
+* Git
 * VS Code
+* Postman
 * Python
-* Razorpay Integration
-* Notification Module
+
+---
+
+## 🌟 Featured Project
+
+### 🎯 Departmental Event Management System
+
+* Event Creation & Management
+* Student Registration
+* Online Payment Integration
+* Email Notifications
+* Role Based Login (Admin / Staff / Student)
+* Dashboard Analytics
+* Event Approval System
 
 ---
 
@@ -62,7 +75,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge\&logo=python\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 ![MERN](https://img.shields.io/badge/MERN-3fa037?style=for-the-badge)
 
 ---
@@ -72,7 +84,5 @@
 📧 Email: [anushkakahar0404@gmail.com](mailto:anushkakahar0404@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/anushka-kahar-5250862b1
 📸 Instagram: https://instagram.com/anushkakahar77
-
----
 
 ⭐ From Anushka Kahar
